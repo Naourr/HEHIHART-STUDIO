@@ -1,3 +1,8 @@
+<img width="1879" height="923" alt="image" src="https://github.com/user-attachments/assets/d8f80423-6cb0-4d83-9759-8649f9327b7c" />
+<img width="1863" height="912" alt="image" src="https://github.com/user-attachments/assets/e203d5ed-df8d-4057-b289-5d2216a1b647" />
+
+
+
 # Minimalist Illustrator Portfolio (React + Vite + Tailwind + Framer Motion)
 
 A Japanese-minimalist showcase site. Frontend only.
