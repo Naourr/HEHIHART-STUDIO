@@ -9,7 +9,7 @@ A Japanese-minimalist showcase site. Frontend only.
    npm install
    npm run dev
    ```
-3. Put your images into `public/art/` with these names (you can change later):
+3. Put your images into `public/art/` with these names. (for parallax in a folder called landing):
    - hero-01.png ← image (13)
    - hero-02.png ← image (11)
    - hero-03.png ← image (18)
