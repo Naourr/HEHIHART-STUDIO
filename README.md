@@ -15,7 +15,8 @@ A Japanese-minimalist showcase site. Frontend only.
    npm run dev
    ```
 3. Put your images into `public/art/` with these names. (for parallax in a folder called landing):
-<img width="582" height="789" alt="image" src="https://github.com/user-attachments/assets/d544174d-4961-4d5a-af00-74fb3dfffca1" />
+<img width="572" height="805" alt="image" src="https://github.com/user-attachments/assets/224980f2-f09a-48e4-9148-31973fc56911" />
+
 
 
 If you keep the original filenames, update `src/data/works.js` to point to them.
