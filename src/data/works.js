@@ -7,10 +7,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (1).jpg",
-      sm: "../art/image (1).jpg",
-      md: "../art/image (1).jpg",
-      lg: "../art/image (1).jpg",
+      thumb: "./art/image (1).jpg",
+      sm: "./art/image (1).jpg",
+      md: "./art/image (1).jpg",
+      lg: "./art/image (1).jpg",
     },
   },
   {
@@ -21,10 +21,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (1).png",
-      sm: "../art/image (1).png",
-      md: "../art/image (1).png",
-      lg: "../art/image (1).png",
+      thumb: "./art/image (1).png",
+      sm: "./art/image (1).png",
+      md: "./art/image (1).png",
+      lg: "./art/image (1).png",
     },
   },
   {
@@ -35,10 +35,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (2).jpg",
-      sm: "../art/image (2).jpg",
-      md: "../art/image (2).jpg",
-      lg: "../art/image (2).jpg",
+      thumb: "./art/image (2).jpg",
+      sm: "./art/image (2).jpg",
+      md: "./art/image (2).jpg",
+      lg: "./art/image (2).jpg",
     },
   },
   {
@@ -49,10 +49,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (2).png",
-      sm: "../art/image (2).png",
-      md: "../art/image (2).png",
-      lg: "../art/image (2).png",
+      thumb: "./art/image (2).png",
+      sm: "./art/image (2).png",
+      md: "./art/image (2).png",
+      lg: "./art/image (2).png",
     },
   },
   {
@@ -63,10 +63,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (3).jpg",
-      sm: "../art/image (3).jpg",
-      md: "../art/image (3).jpg",
-      lg: "../art/image (3).jpg",
+      thumb: "./art/image (3).jpg",
+      sm: "./art/image (3).jpg",
+      md: "./art/image (3).jpg",
+      lg: "./art/image (3).jpg",
     },
   },
   {
@@ -77,10 +77,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (3).png",
-      sm: "../art/image (3).png",
-      md: "../art/image (3).png",
-      lg: "../art/image (3).png",
+      thumb: "./art/image (3).png",
+      sm: "./art/image (3).png",
+      md: "./art/image (3).png",
+      lg: "./art/image (3).png",
     },
   },
   {
@@ -91,10 +91,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (4).png",
-      sm: "../art/image (4).png",
-      md: "../art/image (4).png",
-      lg: "../art/image (4).png",
+      thumb: "./art/image (4).png",
+      sm: "./art/image (4).png",
+      md: "./art/image (4).png",
+      lg: "./art/image (4).png",
     },
   },
   {
@@ -105,10 +105,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (5).jpg",
-      sm: "../art/image (5).jpg",
-      md: "../art/image (5).jpg",
-      lg: "../art/image (5).jpg",
+      thumb: "./art/image (5).jpg",
+      sm: "./art/image (5).jpg",
+      md: "./art/image (5).jpg",
+      lg: "./art/image (5).jpg",
     },
   },
   {
@@ -119,10 +119,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (5).png",
-      sm: "../art/image (5).png",
-      md: "../art/image (5).png",
-      lg: "../art/image (5).png",
+      thumb: "./art/image (5).png",
+      sm: "./art/image (5).png",
+      md: "./art/image (5).png",
+      lg: "./art/image (5).png",
     },
   },
   {
@@ -133,10 +133,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (6).png",
-      sm: "../art/image (6).png",
-      md: "../art/image (6).png",
-      lg: "../art/image (6).png",
+      thumb: "./art/image (6).png",
+      sm: "./art/image (6).png",
+      md: "./art/image (6).png",
+      lg: "./art/image (6).png",
     },
   },
   {
@@ -147,10 +147,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (7).png",
-      sm: "../art/image (7).png",
-      md: "../art/image (7).png",
-      lg: "../art/image (7).png",
+      thumb: "./art/image (7).png",
+      sm: "./art/image (7).png",
+      md: "./art/image (7).png",
+      lg: "./art/image (7).png",
     },
   },
   {
@@ -161,10 +161,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (8).png",
-      sm: "../art/image (8).png",
-      md: "../art/image (8).png",
-      lg: "../art/image (8).png",
+      thumb: "./art/image (8).png",
+      sm: "./art/image (8).png",
+      md: "./art/image (8).png",
+      lg: "./art/image (8).png",
     },
   },
   {
@@ -175,10 +175,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (9).png",
-      sm: "../art/image (9).png",
-      md: "../art/image (9).png",
-      lg: "../art/image (9).png",
+      thumb: "./art/image (9).png",
+      sm: "./art/image (9).png",
+      md: "./art/image (9).png",
+      lg: "./art/image (9).png",
     },
   },
   {
@@ -189,10 +189,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (10).png",
-      sm: "../art/image (10).png",
-      md: "../art/image (10).png",
-      lg: "../art/image (10).png",
+      thumb: "./art/image (10).png",
+      sm: "./art/image (10).png",
+      md: "./art/image (10).png",
+      lg: "./art/image (10).png",
     },
   },
   {
@@ -203,10 +203,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (11).png",
-      sm: "../art/image (11).png",
-      md: "../art/image (11).png",
-      lg: "../art/image (11).png",
+      thumb: "./art/image (11).png",
+      sm: "./art/image (11).png",
+      md: "./art/image (11).png",
+      lg: "./art/image (11).png",
     },
   },
   {
@@ -217,10 +217,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (12).png",
-      sm: "../art/image (12).png",
-      md: "../art/image (12).png",
-      lg: "../art/image (12).png",
+      thumb: "./art/image (12).png",
+      sm: "./art/image (12).png",
+      md: "./art/image (12).png",
+      lg: "./art/image (12).png",
     },
   },
   {
@@ -231,10 +231,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (13).png",
-      sm: "../art/image (13).png",
-      md: "../art/image (13).png",
-      lg: "../art/image (13).png",
+      thumb: "./art/image (13).png",
+      sm: "./art/image (13).png",
+      md: "./art/image (13).png",
+      lg: "./art/image (13).png",
     },
   },
   {
@@ -245,10 +245,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (14).png",
-      sm: "../art/image (14).png",
-      md: "../art/image (14).png",
-      lg: "../art/image (14).png",
+      thumb: "./art/image (14).png",
+      sm: "./art/image (14).png",
+      md: "./art/image (14).png",
+      lg: "./art/image (14).png",
     },
   },
   {
@@ -259,10 +259,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (15).png",
-      sm: "../art/image (15).png",
-      md: "../art/image (15).png",
-      lg: "../art/image (15).png",
+      thumb: "./art/image (15).png",
+      sm: "./art/image (15).png",
+      md: "./art/image (15).png",
+      lg: "./art/image (15).png",
     },
   },
   {
@@ -273,10 +273,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (16).png",
-      sm: "../art/image (16).png",
-      md: "../art/image (16).png",
-      lg: "../art/image (16).png",
+      thumb: "./art/image (16).png",
+      sm: "./art/image (16).png",
+      md: "./art/image (16).png",
+      lg: "./art/image (16).png",
     },
   },
   {
@@ -287,10 +287,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (17).png",
-      sm: "../art/image (17).png",
-      md: "../art/image (17).png",
-      lg: "../art/image (17).png",
+      thumb: "./art/image (17).png",
+      sm: "./art/image (17).png",
+      md: "./art/image (17).png",
+      lg: "./art/image (17).png",
     },
   },
   {
@@ -301,10 +301,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (18).png",
-      sm: "../art/image (18).png",
-      md: "../art/image (18).png",
-      lg: "../art/image (18).png",
+      thumb: "./art/image (18).png",
+      sm: "./art/image (18).png",
+      md: "./art/image (18).png",
+      lg: "./art/image (18).png",
     },
   },
   {
@@ -315,10 +315,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (19).png",
-      sm: "../art/image (19).png",
-      md: "../art/image (19).png",
-      lg: "../art/image (19).png",
+      thumb: "./art/image (19).png",
+      sm: "./art/image (19).png",
+      md: "./art/image (19).png",
+      lg: "./art/image (19).png",
     },
   },
   {
@@ -329,10 +329,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (20).png",
-      sm: "../art/image (20).png",
-      md: "../art/image (20).png",
-      lg: "../art/image (20).png",
+      thumb: "./art/image (20).png",
+      sm: "./art/image (20).png",
+      md: "./art/image (20).png",
+      lg: "./art/image (20).png",
     },
   },
   {
@@ -343,10 +343,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (21).png",
-      sm: "../art/image (21).png",
-      md: "../art/image (21).png",
-      lg: "../art/image (21).png",
+      thumb: "./art/image (21).png",
+      sm: "./art/image (21).png",
+      md: "./art/image (21).png",
+      lg: "./art/image (21).png",
     },
   },
   {
@@ -357,10 +357,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (23).png",
-      sm: "../art/image (23).png",
-      md: "../art/image (23).png",
-      lg: "../art/image (23).png",
+      thumb: "./art/image (23).png",
+      sm: "./art/image (23).png",
+      md: "./art/image (23).png",
+      lg: "./art/image (23).png",
     },
   },
   {
@@ -371,10 +371,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (28).png",
-      sm: "../art/image (28).png",
-      md: "../art/image (28).png",
-      lg: "../art/image (28).png",
+      thumb: "./art/image (28).png",
+      sm: "./art/image (28).png",
+      md: "./art/image (28).png",
+      lg: "./art/image (28).png",
     },
   },
   {
@@ -385,10 +385,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (29).png",
-      sm: "../art/image (29).png",
-      md: "../art/image (29).png",
-      lg: "../art/image (29).png",
+      thumb: "./art/image (29).png",
+      sm: "./art/image (29).png",
+      md: "./art/image (29).png",
+      lg: "./art/image (29).png",
     },
   },
   {
@@ -399,10 +399,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (30).png",
-      sm: "../art/image (30).png",
-      md: "../art/image (30).png",
-      lg: "../art/image (30).png",
+      thumb: "./art/image (30).png",
+      sm: "./art/image (30).png",
+      md: "./art/image (30).png",
+      lg: "./art/image (30).png",
     },
   },
   {
@@ -413,10 +413,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (31).png",
-      sm: "../art/image (31).png",
-      md: "../art/image (31).png",
-      lg: "../art/image (31).png",
+      thumb: "./art/image (31).png",
+      sm: "./art/image (31).png",
+      md: "./art/image (31).png",
+      lg: "./art/image (31).png",
     },
   },
   {
@@ -427,10 +427,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (32).png",
-      sm: "../art/image (32).png",
-      md: "../art/image (32).png",
-      lg: "../art/image (32).png",
+      thumb: "./art/image (32).png",
+      sm: "./art/image (32).png",
+      md: "./art/image (32).png",
+      lg: "./art/image (32).png",
     },
   },
   {
@@ -441,10 +441,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (33).png",
-      sm: "../art/image (33).png",
-      md: "../art/image (33).png",
-      lg: "../art/image (33).png",
+      thumb: "./art/image (33).png",
+      sm: "./art/image (33).png",
+      md: "./art/image (33).png",
+      lg: "./art/image (33).png",
     },
   },
   {
@@ -455,10 +455,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (34).png",
-      sm: "../art/image (34).png",
-      md: "../art/image (34).png",
-      lg: "../art/image (34).png",
+      thumb: "./art/image (34).png",
+      sm: "./art/image (34).png",
+      md: "./art/image (34).png",
+      lg: "./art/image (34).png",
     },
   },
   {
@@ -469,10 +469,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (35).png",
-      sm: "../art/image (35).png",
-      md: "../art/image (35).png",
-      lg: "../art/image (35).png",
+      thumb: "./art/image (35).png",
+      sm: "./art/image (35).png",
+      md: "./art/image (35).png",
+      lg: "./art/image (35).png",
     },
   },
   {
@@ -483,10 +483,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (36).png",
-      sm: "../art/image (36).png",
-      md: "../art/image (36).png",
-      lg: "../art/image (36).png",
+      thumb: "./art/image (36).png",
+      sm: "./art/image (36).png",
+      md: "./art/image (36).png",
+      lg: "./art/image (36).png",
     },
   },
   {
@@ -497,10 +497,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (37).png",
-      sm: "../art/image (37).png",
-      md: "../art/image (37).png",
-      lg: "../art/image (37).png",
+      thumb: "./art/image (37).png",
+      sm: "./art/image (37).png",
+      md: "./art/image (37).png",
+      lg: "./art/image (37).png",
     },
   },
   {
@@ -511,10 +511,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (38).png",
-      sm: "../art/image (38).png",
-      md: "../art/image (38).png",
-      lg: "../art/image (38).png",
+      thumb: "./art/image (38).png",
+      sm: "./art/image (38).png",
+      md: "./art/image (38).png",
+      lg: "./art/image (38).png",
     },
   },
   {
@@ -525,10 +525,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (39).png",
-      sm: "../art/image (39).png",
-      md: "../art/image (39).png",
-      lg: "../art/image (39).png",
+      thumb: "./art/image (39).png",
+      sm: "./art/image (39).png",
+      md: "./art/image (39).png",
+      lg: "./art/image (39).png",
     },
   },
   {
@@ -539,10 +539,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (40).png",
-      sm: "../art/image (40).png",
-      md: "../art/image (40).png",
-      lg: "../art/image (40).png",
+      thumb: "./art/image (40).png",
+      sm: "./art/image (40).png",
+      md: "./art/image (40).png",
+      lg: "./art/image (40).png",
     },
   },
   {
@@ -553,10 +553,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (41).png",
-      sm: "../art/image (41).png",
-      md: "../art/image (41).png",
-      lg: "../art/image (41).png",
+      thumb: "./art/image (41).png",
+      sm: "./art/image (41).png",
+      md: "./art/image (41).png",
+      lg: "./art/image (41).png",
     },
   },
   {
@@ -567,10 +567,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (42).png",
-      sm: "../art/image (42).png",
-      md: "../art/image (42).png",
-      lg: "../art/image (42).png",
+      thumb: "./art/image (42).png",
+      sm: "./art/image (42).png",
+      md: "./art/image (42).png",
+      lg: "./art/image (42).png",
     },
   },
   {
@@ -581,10 +581,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (43).png",
-      sm: "../art/image (43).png",
-      md: "../art/image (43).png",
-      lg: "../art/image (43).png",
+      thumb: "./art/image (43).png",
+      sm: "./art/image (43).png",
+      md: "./art/image (43).png",
+      lg: "./art/image (43).png",
     },
   },
   {
@@ -595,10 +595,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (44).png",
-      sm: "../art/image (44).png",
-      md: "../art/image (44).png",
-      lg: "../art/image (44).png",
+      thumb: "./art/image (44).png",
+      sm: "./art/image (44).png",
+      md: "./art/image (44).png",
+      lg: "./art/image (44).png",
     },
   },
   {
@@ -609,10 +609,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (45).png",
-      sm: "../art/image (45).png",
-      md: "../art/image (45).png",
-      lg: "../art/image (45).png",
+      thumb: "./art/image (45).png",
+      sm: "./art/image (45).png",
+      md: "./art/image (45).png",
+      lg: "./art/image (45).png",
     },
   },
   {
@@ -623,10 +623,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (46).png",
-      sm: "../art/image (46).png",
-      md: "../art/image (46).png",
-      lg: "../art/image (46).png",
+      thumb: "./art/image (46).png",
+      sm: "./art/image (46).png",
+      md: "./art/image (46).png",
+      lg: "./art/image (46).png",
     },
   },
   {
@@ -637,10 +637,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (47).png",
-      sm: "../art/image (47).png",
-      md: "../art/image (47).png",
-      lg: "../art/image (47).png",
+      thumb: "./art/image (47).png",
+      sm: "./art/image (47).png",
+      md: "./art/image (47).png",
+      lg: "./art/image (47).png",
     },
   },
   {
@@ -651,10 +651,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (48).png",
-      sm: "../art/image (48).png",
-      md: "../art/image (48).png",
-      lg: "../art/image (48).png",
+      thumb: "./art/image (48).png",
+      sm: "./art/image (48).png",
+      md: "./art/image (48).png",
+      lg: "./art/image (48).png",
     },
   },
   {
@@ -665,10 +665,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (49).png",
-      sm: "../art/image (49).png",
-      md: "../art/image (49).png",
-      lg: "../art/image (49).png",
+      thumb: "./art/image (49).png",
+      sm: "./art/image (49).png",
+      md: "./art/image (49).png",
+      lg: "./art/image (49).png",
     },
   },
   {
@@ -679,10 +679,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (50).png",
-      sm: "../art/image (50).png",
-      md: "../art/image (50).png",
-      lg: "../art/image (50).png",
+      thumb: "./art/image (50).png",
+      sm: "./art/image (50).png",
+      md: "./art/image (50).png",
+      lg: "./art/image (50).png",
     },
   },
   {
@@ -693,10 +693,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (51).png",
-      sm: "../art/image (51).png",
-      md: "../art/image (51).png",
-      lg: "../art/image (51).png",
+      thumb: "./art/image (51).png",
+      sm: "./art/image (51).png",
+      md: "./art/image (51).png",
+      lg: "./art/image (51).png",
     },
   },
   {
@@ -707,10 +707,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (52).png",
-      sm: "../art/image (52).png",
-      md: "../art/image (52).png",
-      lg: "../art/image (52).png",
+      thumb: "./art/image (52).png",
+      sm: "./art/image (52).png",
+      md: "./art/image (52).png",
+      lg: "./art/image (52).png",
     },
   },
   {
@@ -721,10 +721,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (53).png",
-      sm: "../art/image (53).png",
-      md: "../art/image (53).png",
-      lg: "../art/image (53).png",
+      thumb: "./art/image (53).png",
+      sm: "./art/image (53).png",
+      md: "./art/image (53).png",
+      lg: "./art/image (53).png",
     },
   },
   {
@@ -735,10 +735,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (54).png",
-      sm: "../art/image (54).png",
-      md: "../art/image (54).png",
-      lg: "../art/image (54).png",
+      thumb: "./art/image (54).png",
+      sm: "./art/image (54).png",
+      md: "./art/image (54).png",
+      lg: "./art/image (54).png",
     },
   },
   {
@@ -749,10 +749,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (55).png",
-      sm: "../art/image (55).png",
-      md: "../art/image (55).png",
-      lg: "../art/image (55).png",
+      thumb: "./art/image (55).png",
+      sm: "./art/image (55).png",
+      md: "./art/image (55).png",
+      lg: "./art/image (55).png",
     },
   },
   {
@@ -763,10 +763,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (56).png",
-      sm: "../art/image (56).png",
-      md: "../art/image (56).png",
-      lg: "../art/image (56).png",
+      thumb: "./art/image (56).png",
+      sm: "./art/image (56).png",
+      md: "./art/image (56).png",
+      lg: "./art/image (56).png",
     },
   },
   {
@@ -777,10 +777,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (57).png",
-      sm: "../art/image (57).png",
-      md: "../art/image (57).png",
-      lg: "../art/image (57).png",
+      thumb: "./art/image (57).png",
+      sm: "./art/image (57).png",
+      md: "./art/image (57).png",
+      lg: "./art/image (57).png",
     },
   },
   {
@@ -791,10 +791,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (58).png",
-      sm: "../art/image (58).png",
-      md: "../art/image (58).png",
-      lg: "../art/image (58).png",
+      thumb: "./art/image (58).png",
+      sm: "./art/image (58).png",
+      md: "./art/image (58).png",
+      lg: "./art/image (58).png",
     },
   },
   {
@@ -805,10 +805,10 @@ export const works = [
     tags: [],
     aspect: 1,
     src: {
-      thumb: "../art/image (59).png",
-      sm: "../art/image (59).png",
-      md: "../art/image (59).png",
-      lg: "../art/image (59).png",
+      thumb: "./art/image (59).png",
+      sm: "./art/image (59).png",
+      md: "./art/image (59).png",
+      lg: "./art/image (59).png",
     },
   }, 
 ];
