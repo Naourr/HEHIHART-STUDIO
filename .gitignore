@@ -30,6 +30,8 @@ coverage/
 
 # ignore all files in public
 /public/*
+# EXCEPTION: ALLOW NETLIFY REDIRECTS FILE
+!/public/_redirects
 
 # keep public folder itself (empty)
 /public/.gitkeep
